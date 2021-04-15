@@ -6,7 +6,6 @@ import Header from './components/Header'
 import AddTodo from './components/AddTodo'
 import uuid from 'uuid'
 import About from './pages/About'
-import axios from 'axios'
 
 
 class App extends Component {
